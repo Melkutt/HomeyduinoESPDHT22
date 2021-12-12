@@ -1,1 +1,1 @@
-# HomyduinoESPDHT22
+# HomeyduinoESPDHT22
