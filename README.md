@@ -12,13 +12,9 @@ This i just a working prototype, im using a LoLin/NodeMCU for the moment.
  * Pin 4 -> GND
  * A 4.7k resistor between Pin 1 -> Pin 2
  
-I have a lot of Serial.print and delay at the moment for debuging
-
 
   To-Do-List:
- 
- * Homey refuses to take float values
- * Sleep for 10-15 min between sensor update
+  A lot =)
  
  
 
