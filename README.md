@@ -5,12 +5,8 @@ This is the first public releas of my code, i will improve this project as it's 
 
 This i just a working prototype, im using a LoLin/NodeMCU for the moment.
 
- * DHT22 -> ESP
- * Pin 1 -> VCC
- * Pin 2 -> D5
- * Pin 3 -> NC
- * Pin 4 -> GND
- * A 4.7k resistor between Pin 1 -> Pin 2
+![Uppkoppling](https://user-images.githubusercontent.com/50807637/147147972-095bb325-d08c-451b-b894-4fbdd40cdf22.jpg)
+* A 4.7k resistor between Pin 1 -> Pin 2
  
 
   To-Do-List:
