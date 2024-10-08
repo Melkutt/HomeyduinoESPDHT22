@@ -24,6 +24,7 @@ The hole ide is to take 5 sampels and thrue them in an array, sort them by size 
  # Useful links
 
  For more info, check out this GitHub links
+ * Arduino-Master lib for ESP8266 --> https://github.com/esp8266/Arduino
  * Homeys arduino lib, or "Homeyduino" --> https://github.com/athombv/homey-arduino-library
  * emilv and his ArduSorting lib --> https://github.com/emilv/ArduinoSort
  * RobTillaart's DTHNew lib --> https://github.com/RobTillaart/DHTNew
